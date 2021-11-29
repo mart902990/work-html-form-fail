@@ -44,3 +44,4 @@ $ git push heroku master
 (в нашем проекте получилось вот так -
 git remote heroku to https://git.heroku.com/work-html-form.git)
 */
+echo "Goppa";
