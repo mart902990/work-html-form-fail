@@ -6,9 +6,9 @@
   to -   Путь, по которому необходимо переместить файл.
   В случае успешного выполнения возвращает true.
   Если результирующий файл уже существует, он будет перезаписан.
-  https://secret-brushlands-40445.herokuapp.com адресная стро
-  https://git.heroku.com/secret-brushlands-40445.git
-   ⬢ secret-brushlands-40445
+  https://work-html-form.herokuapp.com/upload.php - адресная стро
+  https://dashboard.heroku.com/apps/work-html-form - проект на heroku
+   
 */
    
 
